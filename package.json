@@ -8,8 +8,9 @@
     "prod": "NODE_ENV=production node app.js"
   },
   "repository": "https://github.com/sajid2000/chat-app.git",
-  "author": "sajid",
-  "license": "MIT",
+  "author": "sajid <sajid153957@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": "https://github.com/sajid2000/chat-app/issues",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
@@ -22,7 +23,7 @@
     "moment": "^2.29.1",
     "mongoose": "^5.12.13",
     "multer": "^1.4.2",
-    "socket.io": "^3.1.2"
+    "socket.io": "^4.1.2"
   },
   "devDependencies": {
     "eslint": "^7.21.0",
